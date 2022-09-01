@@ -1,0 +1,15 @@
+.inputBox {
+  border: 2px solid #857b7b;
+  background-color: aliceblue;
+  color: #171717;
+  margin: 20px auto;
+  font-size: 22px;
+  height: 30px;
+  width: 25%;
+  border-radius: 10px;
+}
+
+.btn-color {
+  background-color: cornflowerblue;
+  color: #fff;
+}
